@@ -23,5 +23,6 @@ public class Test2 {
 		}
 		System.out.println( "Unstaged" );
 		System.out.println( "Unstaged" );
+		System.out.println(  "Unstaged 4" );
 	}
 }
