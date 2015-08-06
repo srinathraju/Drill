@@ -22,5 +22,6 @@ public class Test2 {
 			System.out.println( response );
 		}
 		System.out.println( "Unstaged" );
+		System.out.println( "Unstaged" );
 	}
 }
